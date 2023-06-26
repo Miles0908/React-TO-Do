@@ -1,0 +1,12 @@
+#root {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  flex-direction: column;
+  margin: 0 auto;
+  padding: 2rem;
+
+  background-image: url("https://expertphotography.b-cdn.net/wp-content/uploads/2022/05/Landscape-Photography-Sophie-Turner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

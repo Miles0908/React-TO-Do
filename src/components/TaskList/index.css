@@ -1,0 +1,26 @@
+.TaskList ul {
+  margin: 0 auto;
+  text-align: center;
+  list-style-type: none;
+}
+.TaskList li {
+  position: relative;
+  left: -20px;
+  display: inline-block;
+  vertical-align: top;
+}
+.Task__Swiper {
+  color: wheat;
+
+  border-radius: 12px;
+  width: 140px;
+  height: 40px;
+
+  padding: 12px;
+  transition: all 0.45s;
+}
+.Task__Swiper:hover {
+  background-color: rgb(119, 0, 166);
+  width: 160px;
+  height: 55px;
+}

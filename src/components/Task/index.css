@@ -1,0 +1,25 @@
+.Task {
+  width: 360px;
+  border: 1px solid wheat;
+  border-radius: 12px;
+  display: flex;
+  background-color: rgb(85, 155, 82);
+  justify-content: center;
+  align-items: center;
+  margin: 14px;
+  box-shadow: 0 0 4px black;
+  gap: 12px;
+}
+.Task__User {
+  text-shadow: 5cm;
+}
+
+.Task__Img{
+    margin: 14px;
+    border: 1px solid purple;
+    border-radius: 50%;
+    background-color: rgb(104, 104, 192);
+    width: 40px;
+    height: 40px;
+}
+
